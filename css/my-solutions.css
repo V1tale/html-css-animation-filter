@@ -11,3 +11,15 @@
     border-radius: 50%;
     transition: 2s;
 }
+.ex-4-square:hover {
+    opacity:0;
+    transition:2s;
+}
+.ex-5-square:hover {
+    width: 100px;
+    height: 100px;
+}
+.ex-5-square:active {
+    width:40px;
+    height: 40px;
+}
